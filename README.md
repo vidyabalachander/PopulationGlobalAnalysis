@@ -17,7 +17,7 @@ The analysis focuses on answering the following questions for the year 2023:
 
 3. **Is there a connection between the Gender Inequality Index and life expectancy disparity between men and women?**
 
-    Conclusion: There is ** no strong correlation** between the Gender Inequality Index (GII) and the Life Expectancy Disparity between females and males (r = -0.17).
+    Conclusion: There is no strong correlation between the Gender Inequality Index (GII) and the Life Expectancy Disparity between females and males (r = -0.17).
 
 ## Data Sources
 The analysis utilizes three key public datasets:
